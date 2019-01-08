@@ -300,5 +300,5 @@ java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer3
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/10/springcloud-eureka.html)**      
+**出处：[https://785721099.github.io/](https://785721099.github.io/springcloud/2017/05/10/springcloud-eureka.html)**      
 **版权归作者所有，转载请注明出处** 
